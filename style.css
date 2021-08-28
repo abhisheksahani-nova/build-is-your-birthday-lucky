@@ -7,6 +7,7 @@
 body{
   letter-spacing: 1px;
   color: #333333;
+  background-color: #B9CCED;
 }
 
 h1 {
@@ -31,23 +32,33 @@ h1 {
   width: 21%;
   padding: 0.5rem;
   text-align: left;
+  border-radius: 0.3rem;
+  border: 1px solid #555555;
 }
 
 #lucky-number{
   font-size: large;
   width: 21%;
   padding: 0.5rem;
+  border-radius: 0.3rem;
+  border: 1px solid #555555;
 }
 
 button {
-  width: 11%;
+  width: 12%;
   font-size: large;
-  padding: 0.4rem 0.8rem;
+  padding: 0.6rem 0.9rem;
   margin: 1.2rem 0 2rem;
   cursor: pointer;
   border-radius: 0.4rem;
-  border: 1px solid black;
+  border: 1px solid #555555;
+  background-color: #B9CCED;
+  color: #333333;
+}
 
+button:hover{
+  background-color: #555555;
+  color: #B9CCED;
 }
 
 #output-message{
