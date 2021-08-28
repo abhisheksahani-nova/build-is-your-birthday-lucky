@@ -52,23 +52,24 @@ button {
   cursor: pointer;
   border-radius: 0.4rem;
   border: 1px solid #555555;
-  background-color: #B9CCED;
-  color: #333333;
+  background-color: #555555;
+  color: #B9CCED;
 }
 
 button:hover{
-  background-color: #555555;
+  background-color: black;
   color: #B9CCED;
 }
 
 #output-message{
   height: 10%;
   font-size: 25px;
+  color: #181818;
 }
 
 .footer{
   padding: 1rem 0;
-  margin-top: 3.2rem;
+  margin-top: 3.1rem;
   text-align: center;
 }
 
