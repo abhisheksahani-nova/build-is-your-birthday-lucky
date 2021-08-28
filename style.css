@@ -19,3 +19,27 @@ h1 {
   font-size: larger;
   margin: 1rem 0;
 }
+
+#birth-date{
+  font-size: large;
+  width: 21%;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+#lucky-number{
+  font-size: large;
+  width: 21%;
+  padding: 0.5rem;
+}
+
+button {
+  width: 11%;
+  font-size: large;
+  padding: 0.4rem 0.8rem;
+  margin: 1.2rem;
+  cursor: pointer;
+  border-radius: 0.4rem;
+  border: 1px solid black;
+
+}
