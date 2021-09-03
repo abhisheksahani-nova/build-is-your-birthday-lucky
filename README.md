@@ -11,7 +11,9 @@ A website which checks whether your birthday is lucky or not by calculating if s
 
 ## 🔗 Live Project link
 
-Click here :- https://is-your-birthday-lucky-1.netlify.app/
+Click here - 👇 👇 👇 👇 👇
+
+https://is-your-birthday-lucky-1.netlify.app/
 
   
 ## How to use:
